@@ -1,1 +1,2 @@
 In this project i am going to use everything i learned till now to build a basic recipe website.
+Created a simple recipe website where you can see the recipes by clicking on the link for the respective recipe of your liking on homepage.
